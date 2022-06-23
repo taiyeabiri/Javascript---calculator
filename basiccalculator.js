@@ -1,5 +1,5 @@
-const num1 = parseFloat( prompt('Enter number1: '));
-const num2 = parseFloat( prompt('Enter number2: '));
+const num1 = parseFloat( prompt('Enter first number: '));
+const num2 = parseFloat( prompt('Enter second number: '));
 
 const operator = prompt('Enter opertaor(+, -, /, *)');
 let result = 0;
